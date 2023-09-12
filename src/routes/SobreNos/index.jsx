@@ -1,8 +1,10 @@
-export default function SobreNos () {
+import Sobre from "../../componentes/SobreNos/Sobre";
+
+export default function SobreNos() {
 
     return (
         <main>
-            <h1>Sobre Nós</h1>
+            <Sobre/>
         </main>
     )
 
