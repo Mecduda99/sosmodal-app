@@ -1,0 +1,41 @@
+
+nav{
+  display: flex; width: 100vw;
+  justify-content: center; align-items: center;
+  height: 10vh; background-color: #f1f5ff; border-bottom: 1px solid #464646;
+  & a{font-size: 1.5em; padding: 15px; color: black; }
+  }
+  main{ display: flex; width: 100vw;
+  flex-direction: column; justify-content: center;
+  align-items: center; height: 70vh;
+  }
+  footer{
+  display: flex; width: 100vw; justify-content: space-between; align-items: center;
+  background-color: #111040; 
+  color: white;
+  }
+  footer h2 {
+    color: #F31E1E;
+  }
+  footer .row {
+    flex-direction: row;
+    display: flex;
+    text-align: center;
+  }
+  footer .redes-sociais {
+    left: 910px;
+    position: absolute;
+    top: 85%;
+  }
+.nav-list {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-around;
+}
+.nav-link {
+    list-style: none;
+    padding: 10px;
+}
+.nav-link:hover {
+  text-decoration: underline;
+}

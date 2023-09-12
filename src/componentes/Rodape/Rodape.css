@@ -1,0 +1,15 @@
+.row {
+    flex-direction: row;
+}
+/* .integrantes-maria-wrapper {
+    width: 50%;
+}
+.redes-sociais {
+    flex-flow: ;
+} */
+.integrantes-maria-wrapper {
+    text-align: left;
+    margin-left: 60%;
+    min-width: 100%;
+    padding: 8%;
+}
