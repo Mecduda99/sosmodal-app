@@ -3,7 +3,8 @@ import './Secao.css'
 export default function Secao() {
 
     return (
-        <>
+        <main>
+            <div>
             <div className="frame">
                 <div className="div">
                     <p className="text-wrapper">A solução para otimizar seu atendimento</p>
@@ -18,6 +19,9 @@ export default function Secao() {
                 </div>
                 <img className="celular" alt="Celular" src="./src/assets/imagens/celular.png" />
             </div>
-        </>
+
+            </div>
+            
+        </main>
     )
 }

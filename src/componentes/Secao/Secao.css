@@ -86,3 +86,205 @@
     position: relative;
     width: 665px;
 }
+
+
+.card-list {
+    height: 609px;
+    position: relative;
+    width: 1337px;
+}
+
+.card-list .card {
+    height: 373px;
+    left: 459px;
+    position: absolute;
+    top: 213px;
+    width: 417px;
+}
+
+.card-list .group {
+    height: 263px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 417px;
+}
+
+.card-list .overlap-group {
+    background-color: #10103f;
+    border-radius: 9px;
+    height: 277px;
+    left: -7px;
+    position: relative;
+    top: -7px;
+    width: 431px;
+}
+
+.card-list .frame {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    left: 56px;
+    position: relative;
+    top: 57px;
+}
+
+.card-list .img {
+    height: 94px;
+    position: relative;
+    width: 96px;
+}
+
+.card-list .text-wrapper {
+    color: #f1f5ff;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    height: 109px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -23px;
+    position: relative;
+    text-align: center;
+    width: 318px;
+}
+
+.card-list .div {
+    color: #10103f;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    height: 92px;
+    left: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 280px;
+    width: 355px;
+}
+
+.card-list .card-2 {
+    height: 373px;
+    left: 919px;
+    position: absolute;
+    top: 213px;
+    width: 417px;
+}
+
+.card-list .p {
+    color: #10103f;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    height: 92px;
+    left: 29px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 280px;
+    width: 355px;
+}
+
+.card-list .frame-wrapper {
+    background-color: #f1f5ff;
+    border: 7px solid;
+    border-color: #10103f;
+    border-radius: 9px;
+    height: 270px;
+    left: -4px;
+    position: relative;
+    top: -4px;
+    width: 424px;
+}
+
+.card-list .frame-2 {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    left: 46px;
+    position: relative;
+    top: 44px;
+}
+
+.card-list .frame-3 {
+    height: 100px;
+    position: relative;
+    width: 96px;
+}
+
+.card-list .text-wrapper-2 {
+    color: #10103f;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    height: 109px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -24px;
+    position: relative;
+    text-align: center;
+    width: 318px;
+}
+
+.card-list .card-3 {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 18px;
+    left: 0;
+    position: absolute;
+    top: 213px;
+}
+
+.card-list .overlap-group-wrapper {
+    height: 263px;
+    position: relative;
+    width: 417px;
+}
+
+.card-list .frame-4 {
+    align-items: center;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    left: 48px;
+    position: relative;
+    top: 42px;
+}
+
+.card-list .frame-5 {
+    height: 103px;
+    position: relative;
+    width: 113px;
+}
+
+.card-list .text-wrapper-3 {
+    color: #10103f;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    height: 105px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -27px;
+    position: relative;
+    text-align: center;
+    width: 314px;
+}
+
+.card-list .text-wrapper-4 {
+    color: #10103f;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    height: 92px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-align: center;
+    width: 355px;
+}
