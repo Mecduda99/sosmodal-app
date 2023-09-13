@@ -1,0 +1,15 @@
+.frame {
+    align-items: center;
+    display: inline-flex;
+    gap: 53px;
+    justify-content: center;
+    position: relative;
+}
+
+
+
+.frame .group {
+    height: 604px;
+    position: relative;
+    width: 684px;
+}
